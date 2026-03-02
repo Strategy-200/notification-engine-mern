@@ -19,11 +19,11 @@ The system demonstrates identical architecture and behavior as the MERN implemen
 ## Mock Credentials
 
 Admin:
-Email: [admin@test.com](mailto:admin@test.com)
+Email: [admin@example.com](mailto:admin@test.com)
 Password: admin123
 
 Operator:
-Email: [operator@test.com](mailto:operator@test.com)
+Email: [operator@example.com](mailto:operator@test.com)
 Password: operator123
 
 ---
@@ -192,3 +192,4 @@ Deferred notifications processed periodically using Spring scheduler.
 ## Author
 
 <Your Name>
+
